@@ -1,0 +1,7 @@
+beautifulsoup4
+nltk
+requests
+django
+django-crispy-forms
+django-extensions
+social-auth-app-django
